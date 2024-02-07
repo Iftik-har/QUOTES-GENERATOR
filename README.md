@@ -9,7 +9,7 @@ This Quotes Generator is a simple web application built with HTML, CSS, and Java
 
 - Randomly generates quotes from a predefined list.
 - Responsive design for optimal viewing on various devices.
-- Easy-to-use interface with a "Generate Quote" button.
+- Easy-to-use interface with a "New Quote" button.
 
 ## Technologies Used
 
